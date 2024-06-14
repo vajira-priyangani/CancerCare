@@ -36,12 +36,6 @@ export default function MemberCard(props) {
           </Typography>
       </CardContent>
       <CardActions sx={{ justifyContent: "space-between" }}>
-        <Button startIcon={<LinkedInIcon />} size="small">
-          LinkedIn
-        </Button>
-        <Button startIcon={<EmailIcon />} size="small">
-          E-mail
-        </Button>
       </CardActions>
     </Card>
   );
