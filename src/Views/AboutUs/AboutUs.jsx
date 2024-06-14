@@ -36,8 +36,7 @@ const AboutUs = ({ refProps }) => {
               name={"Harinda Fernando"}
               role={"Supervisor"}
               position={"Assistant Professor"}
-              linkedIn={"https://www.linkedin.com/in/nuwan-kodagoda-a4875a4"}
-              email={"harinda.f@sliit.lk"}
+        
             />
           </Grid>
           <Grid item xs={12} sm={4} md={3}>
@@ -50,8 +49,7 @@ const AboutUs = ({ refProps }) => {
             role={"Group Leader"}
             position={"Undergraduate"}
             Department={"Information Technology"}
-            linkedIn={"https://www.linkedin.com/in/chamal-dakshana-11348525a/"}
-            email={"it20102296@sliit.lk"}
+          
           />
         </Grid>
         <Grid item xs={12} sm={4} md={3}>
@@ -61,8 +59,7 @@ const AboutUs = ({ refProps }) => {
             role={"Group Member"}
             position={"Undergraduate"}
             Department={"Information Technology"}
-            linkedIn={"https://www.linkedin.com/in/deshan-nadeera-032315243/"}
-            email={"it20089054@my.sliit.lk"}
+            
           />
         </Grid>
         <Grid item xs={12} sm={4} md={3}>
@@ -72,8 +69,7 @@ const AboutUs = ({ refProps }) => {
             role={"Group Member"}
             position={"Undergraduate"}
             Department={"Software Engineering"}
-            linkedIn={"https://www.linkedin.com/in/"}
-            email={"it19206660@my.sliit.lk"}
+            
           />
         </Grid>
         <Grid item xs={12} sm={4} md={3}>
@@ -83,8 +79,6 @@ const AboutUs = ({ refProps }) => {
             role={"Group Member"}
             position={"Undergraduate"}
             Department={"Information Technology"}
-            linkedIn={"https://www.linkedin.com/in/vajira-priyangani-72692b220/"}
-            email={"it20107000@my.sliit.lk"}
           />
         </Grid>
       </Grid>
