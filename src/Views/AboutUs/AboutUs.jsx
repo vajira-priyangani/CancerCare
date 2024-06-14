@@ -83,7 +83,7 @@ const AboutUs = ({ refProps }) => {
             role={"Group Member"}
             position={"Undergraduate"}
             Department={"Information Technology"}
-            linkedIn={"linkedin.com/in/vajira-priyangani-72692b220"}
+            linkedIn={"https://www.linkedin.com/in/vajira-priyangani-72692b220/"}
             email={"it20107000@my.sliit.lk"}
           />
         </Grid>
