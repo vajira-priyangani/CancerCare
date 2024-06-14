@@ -35,8 +35,6 @@ export default function MemberCard(props) {
             {Department}
           </Typography>
       </CardContent>
-      <CardActions sx={{ justifyContent: "space-between" }}>
-      </CardActions>
     </Card>
   );
 }
